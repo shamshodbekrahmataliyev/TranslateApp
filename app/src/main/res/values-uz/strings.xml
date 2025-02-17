@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mening Ilovam</string>
+    <string name="btn_english">Inglizcha</string>
+    <string name="btn_russian">Ruscha</string>
+    <string name="btn_uzbek">O‘zbekcha</string>
+</resources>

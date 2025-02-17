@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое Приложение</string>
+    <string name="btn_english">Английский</string>
+    <string name="btn_russian">Русский</string>
+    <string name="btn_uzbek">Узбекский</string>
+</resources>
